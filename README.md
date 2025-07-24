@@ -12,7 +12,7 @@
 
 - Desarrollador Web Junior autodidacta  
 - Fundador de **[YV Web Studio](#)**  
-- Experiencia desarrollando sitios web para negocios locales (pollerías, tiendas de redes, etc.)  
+- Experiencia desarrollando sitios web para negocios locales etc..
 - Dominio de HTML, CSS y JavaScript  
 - Actualmente aprendiendo React, Tailwind, Node.js y MongoDB  
 - Construyendo un sistema de pedidos completo para restaurantes  
