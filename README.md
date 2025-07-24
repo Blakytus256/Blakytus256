@@ -12,7 +12,7 @@
 
 - Desarrollador Web Junior autodidacta  
 - Fundador de **[YV Web Studio](#)**  
-- Experiencia desarrollando sitios web para negocios locales etc..
+- Experiencia creando páginas para negocios locales como restaurantes y tiendas tecnológicas  
 - Dominio de HTML, CSS y JavaScript  
 - Actualmente aprendiendo React, Tailwind, Node.js y MongoDB  
 - Construyendo un sistema de pedidos completo para restaurantes  
@@ -51,15 +51,6 @@
 
 ---
 
-## 📊 **Estadísticas de GitHub**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yersonvera&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yersonvera&layout=compact&theme=tokyonight" width="375"/>
-</div>
-
----
-
 ## 🤝 **Conecta conmigo**
 
 <div align="left">
@@ -80,7 +71,6 @@
 </div>
 
 ---
-
 
 </br>
 </br>
