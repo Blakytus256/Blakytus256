@@ -17,12 +17,19 @@
 ---
 
 ### 📊 Estadísticas de GitHub
+## 🚀 GitHub Stats
 
-![YersonVera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YersonVera&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YersonVera&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YersonVera&layout=compact&theme=tokyonight)
+<a href="https://github.com/YersonVera">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YersonVera&theme=tokyonight" />
+</a>
 
----
+<a href="https://github.com/YersonVera">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YersonVera&theme=tokyonight" />
+</a>
+<a href="https://github.com/YersonVera">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YersonVera&theme=tokyonight" />
+</a>
+
 
 ### 🛠️ Tecnologías que uso:
 
@@ -36,13 +43,9 @@
 ### 📫 Contáctame:
 
 [![Gmail](https://img.shields.io/badge/-stalyhuaytan256@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:stalyhuaytan256@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/51913161010)
-[![Instagram](https://img.shields.io/badge/-@yersonvera_-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yersonvera_)
 
 ---
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi..."</a></h2>
-<h6 align="center">Hecho con ❤️ por Yerson Vera</h6>
 
 ---
 
