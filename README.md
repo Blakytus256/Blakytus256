@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5 logo" title="HTML5"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 90%; background: linear-gradient(to right, #f16529, #e44d26); color:white; padding:2px 8px; border-radius:5px">90%</div>
@@ -28,7 +28,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3 logo" title="CSS3"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 85%; background: linear-gradient(to right, #2965f1, #264de4); color:white; padding:2px 8px; border-radius:5px">85%</div>
@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript logo" title="JavaScript"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 75%; background: linear-gradient(to right, #f7df1e, #f0db4f); color:black; padding:2px 8px; border-radius:5px">75%</div>
@@ -44,7 +44,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React logo" title="React"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 60%; background: linear-gradient(to right, #61dafb, #00d8ff); color:black; padding:2px 8px; border-radius:5px">60%</div>
@@ -52,7 +52,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js logo" title="Node.js"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 40%; background: linear-gradient(to right, #68a063, #3c873a); color:white; padding:2px 8px; border-radius:5px">40%</div>
@@ -65,10 +65,26 @@
 
 ### 🛠️ Tecnologías que uso:
 
-- **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, React
-- **Backend:** Node.js, Express (en progreso)
-- **Herramientas:** Git, GitHub, VS Code, Figma, Canva
-- **Aprendiendo ahora:** MongoDB, JWT, Auth, Framer Motion
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+</p>
+
+---
+
+### 📄 Currículum
+
+📥 Puedes descargar mi CV aquí:  
+👉 [CV_Yerson_Vera_Huaytan.pdf](https://blakytus256.github.io/YVwebstudio/assets/CV_Yerson_Vera_Huaytan.pdf)
+
+> Asegúrate de subir el PDF a la carpeta `assets` o `docs` de tu portafolio y actualizar el enlace si es necesario.
 
 ---
 
@@ -86,4 +102,3 @@ Sugerencias para continuar:
 - ✍️ Publicar artículos en GitHub Pages o blog personal
 - 🔗 Conectar LinkedIn o portafolio si lo tienes listo
 -->
-
