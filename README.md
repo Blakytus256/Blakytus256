@@ -79,15 +79,6 @@
 
 ---
 
-### 📄 Currículum
-
-📥 Puedes descargar mi CV aquí:  
-👉 [CV_Yerson_Vera_Huaytan.pdf](https://blakytus256.github.io/YVwebstudio/assets/CV_Yerson_Vera_Huaytan.pdf)
-
-> Asegúrate de subir el PDF a la carpeta `assets` o `docs` de tu portafolio y actualizar el enlace si es necesario.
-
----
-
 ### 📫 Contáctame:
 
 [![Gmail](https://img.shields.io/badge/-stalyhuaytan256@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:stalyhuaytan256@gmail.com)
@@ -102,3 +93,4 @@ Sugerencias para continuar:
 - ✍️ Publicar artículos en GitHub Pages o blog personal
 - 🔗 Conectar LinkedIn o portafolio si lo tienes listo
 -->
+
