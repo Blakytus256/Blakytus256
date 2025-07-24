@@ -12,7 +12,7 @@
 - 🧠 Aprendiendo React, Tailwind CSS y desarrollo fullstack (Node.js + MongoDB)
 - 🔨 He construido proyectos reales para negocios como restaurantes y tiendas
 - 🚀 En constante crecimiento y aprendiendo nuevas tecnologías
-- 💼 Actualmente trabajando en mi portafolio [YV Web Studio](https://yersonvera.github.io)
+- 💼 Actualmente trabajando en mi portafolio [https://blakytus256.github.io/YVwebstudio)
 
 ---
 
