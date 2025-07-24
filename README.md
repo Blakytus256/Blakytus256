@@ -12,7 +12,7 @@
 - 🧠 Aprendiendo React, Tailwind CSS y desarrollo fullstack (Node.js + MongoDB)
 - 🔨 He construido proyectos reales para negocios como restaurantes y tiendas
 - 🚀 En constante crecimiento y aprendiendo nuevas tecnologías
-- 💼 Actualmente trabajando en mi portafolio [https://blakytus256.github.io/YVwebstudio)
+- 💼 Actualmente trabajando en mi portafolio: [YV Web Studio](https://blakytus256.github.io/YVwebstudio)
 
 ---
 
@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td><strong>HTML</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5 logo" title="HTML5"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 90%; background: linear-gradient(to right, #f16529, #e44d26); color:white; padding:2px 8px; border-radius:5px">90%</div>
@@ -28,7 +28,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>CSS</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3 logo" title="CSS3"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 85%; background: linear-gradient(to right, #2965f1, #264de4); color:white; padding:2px 8px; border-radius:5px">85%</div>
@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>JavaScript</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript logo" title="JavaScript"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 75%; background: linear-gradient(to right, #f7df1e, #f0db4f); color:black; padding:2px 8px; border-radius:5px">75%</div>
@@ -44,7 +44,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>React</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React logo" title="React"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 60%; background: linear-gradient(to right, #61dafb, #00d8ff); color:black; padding:2px 8px; border-radius:5px">60%</div>
@@ -52,7 +52,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Node.js</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js logo" title="Node.js"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 40%; background: linear-gradient(to right, #68a063, #3c873a); color:white; padding:2px 8px; border-radius:5px">40%</div>
@@ -61,6 +61,7 @@
   </tr>
 </table>
 
+---
 
 ### 🛠️ Tecnologías que uso:
 
@@ -74,9 +75,6 @@
 ### 📫 Contáctame:
 
 [![Gmail](https://img.shields.io/badge/-stalyhuaytan256@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:stalyhuaytan256@gmail.com)
-
----
-
 
 ---
 
