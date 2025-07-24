@@ -62,18 +62,6 @@
 </table>
 
 
-<a href="https://github.com/YersonVera">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YersonVera&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/YersonVera">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YersonVera&theme=tokyonight" />
-</a>
-<a href="https://github.com/YersonVera">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YersonVera&theme=tokyonight" />
-</a>
-
-
 ### 🛠️ Tecnologías que uso:
 
 - **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, React
