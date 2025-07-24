@@ -16,8 +16,51 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-## 🚀 GitHub Stats
+## 🧠 Nivel de experiencia en tecnologías
+
+<table>
+  <tr>
+    <td><strong>HTML</strong></td>
+    <td>
+      <div style="background:#ddd; border-radius:5px; width:200px">
+        <div style="width: 90%; background: linear-gradient(to right, #f16529, #e44d26); color:white; padding:2px 8px; border-radius:5px">90%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CSS</strong></td>
+    <td>
+      <div style="background:#ddd; border-radius:5px; width:200px">
+        <div style="width: 85%; background: linear-gradient(to right, #2965f1, #264de4); color:white; padding:2px 8px; border-radius:5px">85%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>
+      <div style="background:#ddd; border-radius:5px; width:200px">
+        <div style="width: 75%; background: linear-gradient(to right, #f7df1e, #f0db4f); color:black; padding:2px 8px; border-radius:5px">75%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>React</strong></td>
+    <td>
+      <div style="background:#ddd; border-radius:5px; width:200px">
+        <div style="width: 60%; background: linear-gradient(to right, #61dafb, #00d8ff); color:black; padding:2px 8px; border-radius:5px">60%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Node.js</strong></td>
+    <td>
+      <div style="background:#ddd; border-radius:5px; width:200px">
+        <div style="width: 40%; background: linear-gradient(to right, #68a063, #3c873a); color:white; padding:2px 8px; border-radius:5px">40%</div>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <a href="https://github.com/YersonVera">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YersonVera&theme=tokyonight" />
