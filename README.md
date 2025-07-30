@@ -47,7 +47,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
-        <div style="width: 60%; background: linear-gradient(to right, #61dafb, #00d8ff); color:black; padding:2px 8px; border-radius:5px">60%</div>
+        <div style="width: 60%; background: linear-gradient(to right, #61dafb, #00d8ff); color:black; padding:2px 8px; border-radius:5px">75%</div>
       </div>
     </td>
   </tr>
