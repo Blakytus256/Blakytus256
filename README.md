@@ -64,9 +64,10 @@
 
 ---
 
-### 🛠️ Tecnologías que uso
+### 🛠️ Tecnologías que uso:
 
-**Frontend:**  
+<p>
+  **Frontend:**  
 ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#gh-light-mode-only)
 ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#gh-light-mode-only)
 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-light-mode-only)
@@ -81,7 +82,6 @@
 ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-light-mode-only)
 ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only)
 ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg#gh-light-mode-only)
-
 ---
 
 ### 📫 Contáctame:
