@@ -66,7 +66,7 @@
   </tr>
 
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" title="Tailwind CSS"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="30" title="Tailwind CSS"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 65%; background: linear-gradient(to right, #38b2ac, #319795); color:white; padding:2px 8px; border-radius:5px">65%</div>
