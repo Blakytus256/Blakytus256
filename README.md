@@ -28,6 +28,7 @@
       </div>
     </td>
   </tr>
+
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/></td>
     <td>
@@ -36,6 +37,7 @@
       </div>
     </td>
   </tr>
+
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/></td>
     <td>
@@ -44,19 +46,39 @@
       </div>
     </td>
   </tr>
+
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
-        <div style="width: 60%; background: linear-gradient(to right, #61dafb, #00d8ff); color:black; padding:2px 8px; border-radius:5px">75%</div>
+        <div style="width: 60%; background: linear-gradient(to right, #61dafb, #00d8ff); color:black; padding:2px 8px; border-radius:5px">60%</div>
       </div>
     </td>
   </tr>
+
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/></td>
     <td>
       <div style="background:#ddd; border-radius:5px; width:200px">
         <div style="width: 40%; background: linear-gradient(to right, #68a063, #3c873a); color:white; padding:2px 8px; border-radius:5px">40%</div>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" title="Tailwind CSS"/></td>
+    <td>
+      <div style="background:#ddd; border-radius:5px; width:200px">
+        <div style="width: 65%; background: linear-gradient(to right, #38b2ac, #319795); color:white; padding:2px 8px; border-radius:5px">65%</div>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/></td>
+    <td>
+      <div style="background:#ddd; border-radius:5px; width:200px">
+        <div style="width: 70%; background: linear-gradient(to right, #f1502f, #e94e31); color:white; padding:2px 8px; border-radius:5px">70%</div>
       </div>
     </td>
   </tr>
