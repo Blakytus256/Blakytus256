@@ -6,16 +6,14 @@
 
 ---
 
-### 👨‍💻 Sobre mí:
+### 👨‍💻 Sobre mí
 
-- 💻 Soy un desarrollador web frontend autodidacta, con experiencia construyendo sitios modernos, rápidos y optimizados para móviles.
-- 🧠 Actualmente profundizando en el stack MERN (MongoDB, Express, React, Node.js) y aprendiendo Tailwind CSS, TypeScript y Next.js.
-- 🎯 Me enfoco en crear interfaces intuitivas, con animaciones fluidas, validación de formularios y experiencia de usuario optimizada.
-- 📱 Especial interés en proyectos responsivos, diseño mobile-first y performance (usando Lighthouse y prácticas SEO).
-- 🛠️ Utilizo Git y GitHub en todos mis proyectos, con experiencia trabajando en flujos de desarrollo reales.
-- 🧩 Domino herramientas modernas como Figma, Vite, GSAP, Framer Motion, y Web APIs en JavaScript.
-- 🚀 He trabajado con clientes reales (restaurantes y tiendas), entregando soluciones personalizadas sin depender de plantillas genéricas.
-- 💼 Actualmente trabajando en mi portafolio: [YV Web Studio](https://blakytus256.github.io/YVwebstudio)
+- 💻 Desarrollador web autodidacta con enfoque en sitios rápidos, modernos y responsivos.  
+- 🚀 Experiencia creando proyectos reales para restaurantes y tiendas.  
+- 🧠 Aprendiendo React, Tailwind CSS, Node.js y MongoDB (stack MERN).  
+- 🎨 Me gusta trabajar con animaciones, validación de formularios y buen diseño UX/UI.  
+- 🛠️ Uso Git, GitHub y Figma en todos mis proyectos.  
+- 💼 Portafolio en desarrollo: [YV Web Studio](https://blakytus256.github.io/YVwebstudio)
 
 ---
 
